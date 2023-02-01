@@ -1,4 +1,4 @@
-Rock Paper Scissors Game:
+#Rock Paper Scissors Game
 
 This is a simple command line based Rock Paper Scissors game written in Python.
 
@@ -14,7 +14,7 @@ Installation:
 
 Clone or download the repository to your local machine:
 
-$ git clone https://github.com/[your-username]/rock-paper-scissors-game.git
+$ git clone https://github.com/pawania2000/Sync-interns.git
 
 Usage:
 
