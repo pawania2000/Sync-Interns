@@ -1,4 +1,4 @@
-**Rock Paper Scissors Game**
+# **Rock Paper Scissors Game**
 
 This is a simple command line based Rock Paper Scissors game written in Python.
 
